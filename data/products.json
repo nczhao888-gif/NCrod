@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Inconel Bar",
+    "category": "temperature corrosion",
+    "summary": "Nickel-chromium alloy bars for oxidation resistance, heat strength, and corrosion resistance.",
+    "url": "https://www.ncrod.com/products/inconel-bar/"
+  },
+  {
+    "name": "Hastelloy Bar",
+    "category": "corrosion temperature",
+    "summary": "Nickel-molybdenum and nickel-chromium-molybdenum alloy bars for aggressive chemical environments.",
+    "url": "https://www.ncrod.com/products/hastelloy-bar/"
+  },
+  {
+    "name": "Incoloy Bar",
+    "category": "temperature corrosion",
+    "summary": "Nickel-iron-chromium alloy bars for heat treatment, petrochemical, and industrial equipment.",
+    "url": "https://www.ncrod.com/products/incoloy-bar/"
+  },
+  {
+    "name": "Monel Bar",
+    "category": "corrosion",
+    "summary": "Nickel-copper alloy bars for seawater, marine, pump, valve, and chemical processing applications.",
+    "url": "https://www.ncrod.com/products/monel-bar/"
+  },
+  {
+    "name": "Pure Nickel Bar",
+    "category": "corrosion precision",
+    "summary": "Commercially pure nickel bars such as Nickel 200 and Nickel 201 for corrosion and electrical applications.",
+    "url": "https://www.ncrod.com/products/pur-nickel-bar/"
+  },
+  {
+    "name": "Nimonic Bar",
+    "category": "temperature",
+    "summary": "High-temperature nickel superalloy bars for turbine, fastener, combustion, and heat-resistant service.",
+    "url": "https://www.ncrod.com/products/nimonic-bar/"
+  },
+  {
+    "name": "Invar Bar",
+    "category": "precision",
+    "summary": "Low-expansion nickel-iron alloy bars for precision tooling, molds, electronics, and dimensional stability.",
+    "url": "https://www.ncrod.com/products/invar-bar/"
+  }
+]

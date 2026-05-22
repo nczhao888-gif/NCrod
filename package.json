@@ -1,0 +1,13 @@
+{
+  "name": "ncrod-github-basic",
+  "version": "1.0.0",
+  "description": "A basic static website starter for NC Rod nickel alloy rod and round bar content.",
+  "private": true,
+  "scripts": {
+    "dev": "npx http-server . -p 8080 -c-1",
+    "start": "npx http-server . -p 8080 -c-1"
+  },
+  "devDependencies": {
+    "http-server": "latest"
+  }
+}
